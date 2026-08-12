@@ -10,4 +10,5 @@ Create a single-page HTML CV to showcase career history
 - [x] Open Graph (OG) Tags: Add OG tags for better social media sharing.
 - [x] Favicon: Add a favicon for your CV page.
 
-##      
+## Task Link
+[Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)
