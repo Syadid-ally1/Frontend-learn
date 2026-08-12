@@ -5,7 +5,8 @@ My Journey learning front end development
 
 
 ## Preview
-<img width="545" height="681" alt="OG-image" src="https://github.com/user-attachments/assets/600de992-324d-4eff-92a9-cc041248495e" />
+<img width="675" height="689" alt="Preview" src="https://github.com/user-attachments/assets/3946efef-61ed-42c0-851f-a52bdd330f74" />
+
 
 
 ## Features
