@@ -1,9 +1,6 @@
 # Frontend-learn
 My Journey learning front end development 
 
-## Link Roadmap.sh Task
-[Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)
-
 ## Single-Page CV
 
 ### Preview
