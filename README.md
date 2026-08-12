@@ -18,14 +18,6 @@ Project Description
 ## Technologies
 HTML5
 
-## Project Structure
-...
-
-## How to Run
-...
-
-## Project Requirements
-...
 
 ## Challenge
 [Single-Page CV Project](https://roadmap.sh/projects/single-page-cv)
